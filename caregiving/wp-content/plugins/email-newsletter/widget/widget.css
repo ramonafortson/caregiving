@@ -1,0 +1,15 @@
+.eemail_caption 
+{
+}
+.eemail_msg 
+{
+	/*padding-left:10px;*/
+	color:#F00;
+}
+.eemail_textbox  { float: left; }
+.eemail_button  { float: left; }
+.eemail_textbox_class 
+{ width:190px;  padding:0 5px 5px 5px ; font-style: italic;  height: 29px; border: none; background: url(../../../themes/caregiving/images/email-bg.png) left top no-repeat;
+}
+.eemail_textbox_button  { color: #FFFFFF!important; text-shadow: 1px 2px 0px #74990b; font-size: 18px!important; width: 89px; height: 34px; border: none!important; padding: 0 0 15px 0px!important; background: url(../../../themes/caregiving/images/sub.png) left top no-repeat!important; }
+.eemail_textbox_button:hover { background: url(../../../themes/caregiving/images/sub.png) left -34px no-repeat!important; }

@@ -1,0 +1,10 @@
+@font-face {
+		font-family: 'LifestyleM54';
+		src: url('lifestylem54.eot');
+		src: url('lifestylem54.eot?#iefix') format('embedded-opentype'),
+				 url('lifestylem54.woff') format('woff'),
+				 url('lifestylem54.ttf') format('truetype'),
+				 url('lifestylem54.svg#lifestylem54') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
